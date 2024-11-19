@@ -1,8 +1,12 @@
 {
   "users": [
     { "id": 1, "name": "Sumit Gogia" },
-{ "id": 1, "name": "Sumit Gogia" },
-{ "id": 1, "name": "Sumit Gogia" }
+    { "id": 1, "name": "Sumit Gogia" },
+    { "id": 1, "name": "Sumit Gogia" }
+  ],
+ "cart": [
+    { "id": 1, "name": "Sumit Gogia" },
+    { "id": 1, "name": "Sumit Gogia" },
+    { "id": 1, "name": "Sumit Gogia" }
   ]
-
 }
